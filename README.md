@@ -14,9 +14,17 @@
 
 不过你还可以走一些捷径
 
+比如 MIT 大佬写的 DeepLearning 的书
+
+比如 UCB 大佬的公开课
+
 来迅速 get 到这部分 knowledge
 
 然后看周志华大大的西瓜书
+
+接着看一些应用
+
+比如 Stanford 的课程
 #
 #
 #
