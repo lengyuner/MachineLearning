@@ -25,6 +25,8 @@
 接着看一些应用
 
 比如 Stanford 的课程
+
+来检测你的学习
 #
 #
 #
@@ -35,6 +37,11 @@
 账号：ml2018 密码：本人学校英文名大写_DONT_DISTRIBUTE
 
 http://lamda.nju.edu.cn/ml2018/handouts.htm
+#
+#
+#
+Stanford 吴恩达大佬的经典机器学习课程
+https://www.coursera.org/learn/machine-learning
 #
 #
 #
