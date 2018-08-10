@@ -100,7 +100,7 @@ UCB Stat212b：Topics Course on Deep Learning
 
 统计系Joan Bruna（Yann LeCun博士后） 以统计的角度讲解DL
 
-本人不怎么需要掌握更多的统计知识，所以没怎么看
+本人不怎么需要掌握更多的统计知识，所以没看
 
 http://joanbruna.github.io/stat212b/
 #
