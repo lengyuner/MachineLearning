@@ -10,9 +10,9 @@
 
 在这个过程中，学好C++ 和python
 
-这估计已经阻碍了很大一部分人进入该领域
+这个过程可能会阻碍很大一部分人进入该领域
 
-不过你还可以走一些捷径
+不过你可以走一些捷径
 
 比如 MIT 大佬写的 DeepLearning 的书
 
@@ -22,6 +22,8 @@
 
 然后看周志华大大的西瓜书
 
+根据周大大的建议，第一遍可以粗略地看，需要哪部分知识的时候再回头看
+
 接着看一些应用
 
 比如 Stanford 的课程
@@ -30,11 +32,11 @@
 #
 #
 #
-周志华大大的机器学习课程的PPT
+周志华大大的 机器学习 课程的PPT
 
 我感觉是国内机器学习最好的一本书，深入浅出，真正大牛级别的人物
 
-账号：ml2018 密码：本人学校英文名大写_DONT_DISTRIBUTE
+账号密码私戳吧，周大大不让随便外传
 
 http://lamda.nju.edu.cn/ml2018/handouts.htm
 #
@@ -52,11 +54,11 @@ CS231n:Convolutional Neural Networks for Visual Recognition
 
 一门用 DeepLearning 来做图像识别的课程
 
-我本人超级喜欢这本书滴
+我本人超级喜欢这门课
 
-超级喜欢里面的配图
+讲义里面的配图很好
 
-主要用 Python 和 C++ ，最好有一些基础
+主要用 Python 和 C++ ，如果要学习这门课最好有一些编程基础
 
 http://cs231n.stanford.edu
 #
@@ -64,7 +66,7 @@ http://cs231n.stanford.edu
 #
 MIT 一位大牛写的 DeepLearning 的书
 
-介绍了一下基础的数学工具
+书的前几章介绍了一下基础的数学工具
 
 对非数学专业的同学可能很有帮助
 
@@ -98,4 +100,10 @@ UCB Stat212b：Topics Course on Deep Learning
 
 统计系Joan Bruna（Yann LeCun博士后） 以统计的角度讲解DL
 
+本人不怎么需要掌握更多的统计知识，所以没怎么看
+
 http://joanbruna.github.io/stat212b/
+#
+#
+#
+#
