@@ -1,0 +1,1106 @@
+E:\Anaconda3\python.exe C:/Users/dongj/Desktop/courses/AI/Experiment/边缘检测/AdvTra/train_Cifar10_ConvNet/train2_AdvT.py
+begin to change pictures from 3 to 4
+pictures have been changed from 3 to 4
+size of picture:
+------------ Epoch 1 / 100 ------------
+t = 100, loss = 2.14869785
+[train2_AdcT] E-t = 1-100, right predict:(3242/10000) ,pre test_acc=32.4200%
+t = 200, loss = 1.99240661
+[train2_AdcT] E-t = 1-200, right predict:(3650/10000) ,pre test_acc=36.5000%
+t = 300, loss = 1.96350265
+[train2_AdcT] E-t = 1-300, right predict:(3878/10000) ,pre test_acc=38.7800%
+t = 400, loss = 1.79193044
+[train2_AdcT] E-t = 1-400, right predict:(4221/10000) ,pre test_acc=42.2100%
+t = 500, loss = 1.96873879
+[train2_AdcT] E-t = 1-500, right predict:(4311/10000) ,pre test_acc=43.1100%
+------------ Epoch 2 / 100 ------------
+t = 100, loss = 1.95141411
+[train2_AdcT] E-t = 2-100, right predict:(4258/10000) ,pre test_acc=42.5800%
+t = 200, loss = 1.75260484
+[train2_AdcT] E-t = 2-200, right predict:(4470/10000) ,pre test_acc=44.7000%
+t = 300, loss = 1.75819516
+[train2_AdcT] E-t = 2-300, right predict:(4606/10000) ,pre test_acc=46.0600%
+t = 400, loss = 1.73721600
+[train2_AdcT] E-t = 2-400, right predict:(4586/10000) ,pre test_acc=45.8600%
+t = 500, loss = 1.93954849
+[train2_AdcT] E-t = 2-500, right predict:(4536/10000) ,pre test_acc=45.3600%
+------------ Epoch 3 / 100 ------------
+t = 100, loss = 1.69357204
+[train2_AdcT] E-t = 3-100, right predict:(4628/10000) ,pre test_acc=46.2800%
+t = 200, loss = 1.67465770
+[train2_AdcT] E-t = 3-200, right predict:(4708/10000) ,pre test_acc=47.0800%
+t = 300, loss = 1.64983749
+[train2_AdcT] E-t = 3-300, right predict:(4739/10000) ,pre test_acc=47.3900%
+t = 400, loss = 1.73327351
+[train2_AdcT] E-t = 3-400, right predict:(4983/10000) ,pre test_acc=49.8300%
+t = 500, loss = 1.65531135
+[train2_AdcT] E-t = 3-500, right predict:(4985/10000) ,pre test_acc=49.8500%
+------------ Epoch 4 / 100 ------------
+t = 100, loss = 1.57380342
+[train2_AdcT] E-t = 4-100, right predict:(4919/10000) ,pre test_acc=49.1900%
+t = 200, loss = 1.49136090
+[train2_AdcT] E-t = 4-200, right predict:(5033/10000) ,pre test_acc=50.3300%
+t = 300, loss = 1.53577888
+[train2_AdcT] E-t = 4-300, right predict:(4956/10000) ,pre test_acc=49.5600%
+t = 400, loss = 1.62650895
+[train2_AdcT] E-t = 4-400, right predict:(5108/10000) ,pre test_acc=51.0800%
+t = 500, loss = 1.58371949
+[train2_AdcT] E-t = 4-500, right predict:(5178/10000) ,pre test_acc=51.7800%
+------------ Epoch 5 / 100 ------------
+t = 100, loss = 1.66525209
+[train2_AdcT] E-t = 5-100, right predict:(5210/10000) ,pre test_acc=52.1000%
+t = 200, loss = 1.66933393
+[train2_AdcT] E-t = 5-200, right predict:(5242/10000) ,pre test_acc=52.4200%
+t = 300, loss = 1.48422456
+[train2_AdcT] E-t = 5-300, right predict:(5250/10000) ,pre test_acc=52.5000%
+t = 400, loss = 1.62341785
+[train2_AdcT] E-t = 5-400, right predict:(5227/10000) ,pre test_acc=52.2700%
+t = 500, loss = 1.43473387
+[train2_AdcT] E-t = 5-500, right predict:(5318/10000) ,pre test_acc=53.1800%
+------------ Epoch 6 / 100 ------------
+t = 100, loss = 1.57063007
+[train2_AdcT] E-t = 6-100, right predict:(5318/10000) ,pre test_acc=53.1800%
+t = 200, loss = 1.51009417
+[train2_AdcT] E-t = 6-200, right predict:(5395/10000) ,pre test_acc=53.9500%
+t = 300, loss = 1.63060784
+[train2_AdcT] E-t = 6-300, right predict:(5469/10000) ,pre test_acc=54.6900%
+t = 400, loss = 1.40738297
+[train2_AdcT] E-t = 6-400, right predict:(5401/10000) ,pre test_acc=54.0100%
+t = 500, loss = 1.52221823
+[train2_AdcT] E-t = 6-500, right predict:(5388/10000) ,pre test_acc=53.8800%
+------------ Epoch 7 / 100 ------------
+t = 100, loss = 1.51591027
+[train2_AdcT] E-t = 7-100, right predict:(5503/10000) ,pre test_acc=55.0300%
+t = 200, loss = 1.44412565
+[train2_AdcT] E-t = 7-200, right predict:(5418/10000) ,pre test_acc=54.1800%
+t = 300, loss = 1.28470790
+[train2_AdcT] E-t = 7-300, right predict:(5550/10000) ,pre test_acc=55.5000%
+t = 400, loss = 1.39129579
+[train2_AdcT] E-t = 7-400, right predict:(5648/10000) ,pre test_acc=56.4800%
+t = 500, loss = 1.58494925
+[train2_AdcT] E-t = 7-500, right predict:(5400/10000) ,pre test_acc=54.0000%
+------------ Epoch 8 / 100 ------------
+t = 100, loss = 1.48238349
+[train2_AdcT] E-t = 8-100, right predict:(5703/10000) ,pre test_acc=57.0300%
+t = 200, loss = 1.49782014
+[train2_AdcT] E-t = 8-200, right predict:(5593/10000) ,pre test_acc=55.9300%
+t = 300, loss = 1.55554461
+[train2_AdcT] E-t = 8-300, right predict:(5623/10000) ,pre test_acc=56.2300%
+t = 400, loss = 1.58256936
+[train2_AdcT] E-t = 8-400, right predict:(5754/10000) ,pre test_acc=57.5400%
+t = 500, loss = 1.69392991
+[train2_AdcT] E-t = 8-500, right predict:(5665/10000) ,pre test_acc=56.6500%
+------------ Epoch 9 / 100 ------------
+t = 100, loss = 1.52912080
+[train2_AdcT] E-t = 9-100, right predict:(5819/10000) ,pre test_acc=58.1900%
+t = 200, loss = 1.52559543
+[train2_AdcT] E-t = 9-200, right predict:(5811/10000) ,pre test_acc=58.1100%
+t = 300, loss = 1.50867772
+[train2_AdcT] E-t = 9-300, right predict:(5806/10000) ,pre test_acc=58.0600%
+t = 400, loss = 1.41464174
+[train2_AdcT] E-t = 9-400, right predict:(5837/10000) ,pre test_acc=58.3700%
+t = 500, loss = 1.41262579
+[train2_AdcT] E-t = 9-500, right predict:(5789/10000) ,pre test_acc=57.8900%
+------------ Epoch 10 / 100 ------------
+t = 100, loss = 1.41223168
+[train2_AdcT] E-t = 10-100, right predict:(5802/10000) ,pre test_acc=58.0200%
+t = 200, loss = 1.44969869
+[train2_AdcT] E-t = 10-200, right predict:(5862/10000) ,pre test_acc=58.6200%
+t = 300, loss = 1.53447652
+[train2_AdcT] E-t = 10-300, right predict:(6021/10000) ,pre test_acc=60.2100%
+t = 400, loss = 1.50755048
+[train2_AdcT] E-t = 10-400, right predict:(5918/10000) ,pre test_acc=59.1800%
+t = 500, loss = 1.42065012
+[train2_AdcT] E-t = 10-500, right predict:(5923/10000) ,pre test_acc=59.2300%
+------------ Epoch 11 / 100 ------------
+t = 100, loss = 1.43787432
+[train2_AdcT] E-t = 11-100, right predict:(5935/10000) ,pre test_acc=59.3500%
+t = 200, loss = 1.37891746
+[train2_AdcT] E-t = 11-200, right predict:(6032/10000) ,pre test_acc=60.3200%
+t = 300, loss = 1.35961854
+[train2_AdcT] E-t = 11-300, right predict:(6059/10000) ,pre test_acc=60.5900%
+t = 400, loss = 1.30996037
+[train2_AdcT] E-t = 11-400, right predict:(5967/10000) ,pre test_acc=59.6700%
+t = 500, loss = 1.41402113
+[train2_AdcT] E-t = 11-500, right predict:(6096/10000) ,pre test_acc=60.9600%
+------------ Epoch 12 / 100 ------------
+t = 100, loss = 1.51646757
+[train2_AdcT] E-t = 12-100, right predict:(6055/10000) ,pre test_acc=60.5500%
+t = 200, loss = 1.63670397
+[train2_AdcT] E-t = 12-200, right predict:(6084/10000) ,pre test_acc=60.8400%
+t = 300, loss = 1.33913040
+[train2_AdcT] E-t = 12-300, right predict:(6028/10000) ,pre test_acc=60.2800%
+t = 400, loss = 1.47267818
+[train2_AdcT] E-t = 12-400, right predict:(6093/10000) ,pre test_acc=60.9300%
+t = 500, loss = 1.37467027
+[train2_AdcT] E-t = 12-500, right predict:(6107/10000) ,pre test_acc=61.0700%
+------------ Epoch 13 / 100 ------------
+t = 100, loss = 1.23943651
+[train2_AdcT] E-t = 13-100, right predict:(6154/10000) ,pre test_acc=61.5400%
+t = 200, loss = 1.34324574
+[train2_AdcT] E-t = 13-200, right predict:(6191/10000) ,pre test_acc=61.9100%
+t = 300, loss = 1.34449244
+[train2_AdcT] E-t = 13-300, right predict:(6197/10000) ,pre test_acc=61.9700%
+t = 400, loss = 1.25411773
+[train2_AdcT] E-t = 13-400, right predict:(6066/10000) ,pre test_acc=60.6600%
+t = 500, loss = 1.40369403
+[train2_AdcT] E-t = 13-500, right predict:(6200/10000) ,pre test_acc=62.0000%
+------------ Epoch 14 / 100 ------------
+t = 100, loss = 1.25256872
+[train2_AdcT] E-t = 14-100, right predict:(6240/10000) ,pre test_acc=62.4000%
+t = 200, loss = 1.40502000
+[train2_AdcT] E-t = 14-200, right predict:(6130/10000) ,pre test_acc=61.3000%
+t = 300, loss = 1.35454917
+[train2_AdcT] E-t = 14-300, right predict:(6187/10000) ,pre test_acc=61.8700%
+t = 400, loss = 1.53837490
+[train2_AdcT] E-t = 14-400, right predict:(6124/10000) ,pre test_acc=61.2400%
+t = 500, loss = 1.38708925
+[train2_AdcT] E-t = 14-500, right predict:(6304/10000) ,pre test_acc=63.0400%
+------------ Epoch 15 / 100 ------------
+t = 100, loss = 1.23929131
+[train2_AdcT] E-t = 15-100, right predict:(6334/10000) ,pre test_acc=63.3400%
+t = 200, loss = 1.36089146
+[train2_AdcT] E-t = 15-200, right predict:(6236/10000) ,pre test_acc=62.3600%
+t = 300, loss = 1.29250240
+[train2_AdcT] E-t = 15-300, right predict:(6334/10000) ,pre test_acc=63.3400%
+t = 400, loss = 1.29043758
+[train2_AdcT] E-t = 15-400, right predict:(6261/10000) ,pre test_acc=62.6100%
+t = 500, loss = 1.28975022
+[train2_AdcT] E-t = 15-500, right predict:(6206/10000) ,pre test_acc=62.0600%
+------------ Epoch 16 / 100 ------------
+t = 100, loss = 1.21349168
+[train2_AdcT] E-t = 16-100, right predict:(6292/10000) ,pre test_acc=62.9200%
+t = 200, loss = 1.21554708
+[train2_AdcT] E-t = 16-200, right predict:(6403/10000) ,pre test_acc=64.0300%
+t = 300, loss = 1.36853039
+[train2_AdcT] E-t = 16-300, right predict:(6316/10000) ,pre test_acc=63.1600%
+t = 400, loss = 1.40362549
+[train2_AdcT] E-t = 16-400, right predict:(6408/10000) ,pre test_acc=64.0800%
+t = 500, loss = 1.15899181
+[train2_AdcT] E-t = 16-500, right predict:(6328/10000) ,pre test_acc=63.2800%
+------------ Epoch 17 / 100 ------------
+t = 100, loss = 1.06052339
+[train2_AdcT] E-t = 17-100, right predict:(6389/10000) ,pre test_acc=63.8900%
+t = 200, loss = 1.07916236
+[train2_AdcT] E-t = 17-200, right predict:(6381/10000) ,pre test_acc=63.8100%
+t = 300, loss = 1.32985878
+[train2_AdcT] E-t = 17-300, right predict:(6395/10000) ,pre test_acc=63.9500%
+t = 400, loss = 1.28781676
+[train2_AdcT] E-t = 17-400, right predict:(6327/10000) ,pre test_acc=63.2700%
+t = 500, loss = 1.22266769
+[train2_AdcT] E-t = 17-500, right predict:(6442/10000) ,pre test_acc=64.4200%
+------------ Epoch 18 / 100 ------------
+t = 100, loss = 1.30986023
+[train2_AdcT] E-t = 18-100, right predict:(6439/10000) ,pre test_acc=64.3900%
+t = 200, loss = 1.17901289
+[train2_AdcT] E-t = 18-200, right predict:(6433/10000) ,pre test_acc=64.3300%
+t = 300, loss = 1.44027567
+[train2_AdcT] E-t = 18-300, right predict:(6479/10000) ,pre test_acc=64.7900%
+t = 400, loss = 1.35265613
+[train2_AdcT] E-t = 18-400, right predict:(6461/10000) ,pre test_acc=64.6100%
+t = 500, loss = 1.58765101
+[train2_AdcT] E-t = 18-500, right predict:(6470/10000) ,pre test_acc=64.7000%
+------------ Epoch 19 / 100 ------------
+t = 100, loss = 1.40158617
+[train2_AdcT] E-t = 19-100, right predict:(6512/10000) ,pre test_acc=65.1200%
+t = 200, loss = 1.16509080
+[train2_AdcT] E-t = 19-200, right predict:(6414/10000) ,pre test_acc=64.1400%
+t = 300, loss = 1.11502147
+[train2_AdcT] E-t = 19-300, right predict:(6505/10000) ,pre test_acc=65.0500%
+t = 400, loss = 1.25995636
+[train2_AdcT] E-t = 19-400, right predict:(6348/10000) ,pre test_acc=63.4800%
+t = 500, loss = 1.29058516
+[train2_AdcT] E-t = 19-500, right predict:(6491/10000) ,pre test_acc=64.9100%
+------------ Epoch 20 / 100 ------------
+t = 100, loss = 1.17288494
+[train2_AdcT] E-t = 20-100, right predict:(6614/10000) ,pre test_acc=66.1400%
+t = 200, loss = 1.39892578
+[train2_AdcT] E-t = 20-200, right predict:(6510/10000) ,pre test_acc=65.1000%
+t = 300, loss = 1.29862213
+[train2_AdcT] E-t = 20-300, right predict:(6489/10000) ,pre test_acc=64.8900%
+t = 400, loss = 1.29038525
+[train2_AdcT] E-t = 20-400, right predict:(6494/10000) ,pre test_acc=64.9400%
+t = 500, loss = 1.25825858
+[train2_AdcT] E-t = 20-500, right predict:(6511/10000) ,pre test_acc=65.1100%
+------------ Epoch 21 / 100 ------------
+t = 100, loss = 1.20777071
+[train2_AdcT] E-t = 21-100, right predict:(6506/10000) ,pre test_acc=65.0600%
+t = 200, loss = 1.42479229
+[train2_AdcT] E-t = 21-200, right predict:(6540/10000) ,pre test_acc=65.4000%
+t = 300, loss = 1.11468709
+[train2_AdcT] E-t = 21-300, right predict:(6532/10000) ,pre test_acc=65.3200%
+t = 400, loss = 1.14359426
+[train2_AdcT] E-t = 21-400, right predict:(6597/10000) ,pre test_acc=65.9700%
+t = 500, loss = 1.18348825
+[train2_AdcT] E-t = 21-500, right predict:(6467/10000) ,pre test_acc=64.6700%
+------------ Epoch 22 / 100 ------------
+t = 100, loss = 1.25040948
+[train2_AdcT] E-t = 22-100, right predict:(6617/10000) ,pre test_acc=66.1700%
+t = 200, loss = 1.20159876
+[train2_AdcT] E-t = 22-200, right predict:(6591/10000) ,pre test_acc=65.9100%
+t = 300, loss = 1.36285663
+[train2_AdcT] E-t = 22-300, right predict:(6589/10000) ,pre test_acc=65.8900%
+t = 400, loss = 1.37389946
+[train2_AdcT] E-t = 22-400, right predict:(6613/10000) ,pre test_acc=66.1300%
+t = 500, loss = 1.17876077
+[train2_AdcT] E-t = 22-500, right predict:(6649/10000) ,pre test_acc=66.4900%
+------------ Epoch 23 / 100 ------------
+t = 100, loss = 1.21019244
+[train2_AdcT] E-t = 23-100, right predict:(6644/10000) ,pre test_acc=66.4400%
+t = 200, loss = 1.18183398
+[train2_AdcT] E-t = 23-200, right predict:(6651/10000) ,pre test_acc=66.5100%
+t = 300, loss = 1.28911531
+[train2_AdcT] E-t = 23-300, right predict:(6680/10000) ,pre test_acc=66.8000%
+t = 400, loss = 1.14285290
+[train2_AdcT] E-t = 23-400, right predict:(6629/10000) ,pre test_acc=66.2900%
+t = 500, loss = 1.18627918
+[train2_AdcT] E-t = 23-500, right predict:(6649/10000) ,pre test_acc=66.4900%
+------------ Epoch 24 / 100 ------------
+t = 100, loss = 1.13801897
+[train2_AdcT] E-t = 24-100, right predict:(6614/10000) ,pre test_acc=66.1400%
+t = 200, loss = 1.12210965
+[train2_AdcT] E-t = 24-200, right predict:(6716/10000) ,pre test_acc=67.1600%
+t = 300, loss = 1.09026861
+[train2_AdcT] E-t = 24-300, right predict:(6681/10000) ,pre test_acc=66.8100%
+t = 400, loss = 1.13158357
+[train2_AdcT] E-t = 24-400, right predict:(6662/10000) ,pre test_acc=66.6200%
+t = 500, loss = 1.38683724
+[train2_AdcT] E-t = 24-500, right predict:(6699/10000) ,pre test_acc=66.9900%
+------------ Epoch 25 / 100 ------------
+t = 100, loss = 1.13536716
+[train2_AdcT] E-t = 25-100, right predict:(6674/10000) ,pre test_acc=66.7400%
+t = 200, loss = 1.22475660
+[train2_AdcT] E-t = 25-200, right predict:(6726/10000) ,pre test_acc=67.2600%
+t = 300, loss = 1.11014116
+[train2_AdcT] E-t = 25-300, right predict:(6637/10000) ,pre test_acc=66.3700%
+t = 400, loss = 1.14278388
+[train2_AdcT] E-t = 25-400, right predict:(6649/10000) ,pre test_acc=66.4900%
+t = 500, loss = 1.25273216
+[train2_AdcT] E-t = 25-500, right predict:(6694/10000) ,pre test_acc=66.9400%
+------------ Epoch 26 / 100 ------------
+t = 100, loss = 1.19447601
+[train2_AdcT] E-t = 26-100, right predict:(6700/10000) ,pre test_acc=67.0000%
+t = 200, loss = 1.02784276
+[train2_AdcT] E-t = 26-200, right predict:(6737/10000) ,pre test_acc=67.3700%
+t = 300, loss = 1.14530659
+[train2_AdcT] E-t = 26-300, right predict:(6656/10000) ,pre test_acc=66.5600%
+t = 400, loss = 1.22956538
+[train2_AdcT] E-t = 26-400, right predict:(6662/10000) ,pre test_acc=66.6200%
+t = 500, loss = 1.29399705
+[train2_AdcT] E-t = 26-500, right predict:(6585/10000) ,pre test_acc=65.8500%
+------------ Epoch 27 / 100 ------------
+t = 100, loss = 1.26872361
+[train2_AdcT] E-t = 27-100, right predict:(6766/10000) ,pre test_acc=67.6600%
+t = 200, loss = 1.35855150
+[train2_AdcT] E-t = 27-200, right predict:(6666/10000) ,pre test_acc=66.6600%
+t = 300, loss = 1.17477143
+[train2_AdcT] E-t = 27-300, right predict:(6814/10000) ,pre test_acc=68.1400%
+t = 400, loss = 1.14566135
+[train2_AdcT] E-t = 27-400, right predict:(6759/10000) ,pre test_acc=67.5900%
+t = 500, loss = 1.22951686
+[train2_AdcT] E-t = 27-500, right predict:(6831/10000) ,pre test_acc=68.3100%
+------------ Epoch 28 / 100 ------------
+t = 100, loss = 1.37520242
+[train2_AdcT] E-t = 28-100, right predict:(6776/10000) ,pre test_acc=67.7600%
+t = 200, loss = 1.18660605
+[train2_AdcT] E-t = 28-200, right predict:(6735/10000) ,pre test_acc=67.3500%
+t = 300, loss = 1.14044285
+[train2_AdcT] E-t = 28-300, right predict:(6769/10000) ,pre test_acc=67.6900%
+t = 400, loss = 1.04417038
+[train2_AdcT] E-t = 28-400, right predict:(6790/10000) ,pre test_acc=67.9000%
+t = 500, loss = 1.19637048
+[train2_AdcT] E-t = 28-500, right predict:(6800/10000) ,pre test_acc=68.0000%
+------------ Epoch 29 / 100 ------------
+t = 100, loss = 1.21377587
+[train2_AdcT] E-t = 29-100, right predict:(6780/10000) ,pre test_acc=67.8000%
+t = 200, loss = 0.97911626
+[train2_AdcT] E-t = 29-200, right predict:(6781/10000) ,pre test_acc=67.8100%
+t = 300, loss = 1.13815486
+[train2_AdcT] E-t = 29-300, right predict:(6803/10000) ,pre test_acc=68.0300%
+t = 400, loss = 0.99583519
+[train2_AdcT] E-t = 29-400, right predict:(6792/10000) ,pre test_acc=67.9200%
+t = 500, loss = 1.14402509
+[train2_AdcT] E-t = 29-500, right predict:(6688/10000) ,pre test_acc=66.8800%
+------------ Epoch 30 / 100 ------------
+t = 100, loss = 1.20610225
+[train2_AdcT] E-t = 30-100, right predict:(6861/10000) ,pre test_acc=68.6100%
+t = 200, loss = 1.08970642
+[train2_AdcT] E-t = 30-200, right predict:(6862/10000) ,pre test_acc=68.6200%
+t = 300, loss = 0.95491821
+[train2_AdcT] E-t = 30-300, right predict:(6831/10000) ,pre test_acc=68.3100%
+t = 400, loss = 1.22562647
+[train2_AdcT] E-t = 30-400, right predict:(6685/10000) ,pre test_acc=66.8500%
+t = 500, loss = 1.27833915
+[train2_AdcT] E-t = 30-500, right predict:(6891/10000) ,pre test_acc=68.9100%
+------------ Epoch 31 / 100 ------------
+t = 100, loss = 1.19221842
+[train2_AdcT] E-t = 31-100, right predict:(6853/10000) ,pre test_acc=68.5300%
+t = 200, loss = 1.29808474
+[train2_AdcT] E-t = 31-200, right predict:(6877/10000) ,pre test_acc=68.7700%
+t = 300, loss = 1.14800978
+[train2_AdcT] E-t = 31-300, right predict:(6817/10000) ,pre test_acc=68.1700%
+t = 400, loss = 1.27486670
+[train2_AdcT] E-t = 31-400, right predict:(6883/10000) ,pre test_acc=68.8300%
+t = 500, loss = 1.19972765
+[train2_AdcT] E-t = 31-500, right predict:(6889/10000) ,pre test_acc=68.8900%
+------------ Epoch 32 / 100 ------------
+t = 100, loss = 1.03567624
+[train2_AdcT] E-t = 32-100, right predict:(6927/10000) ,pre test_acc=69.2700%
+t = 200, loss = 1.13229847
+[train2_AdcT] E-t = 32-200, right predict:(6903/10000) ,pre test_acc=69.0300%
+t = 300, loss = 1.17986190
+[train2_AdcT] E-t = 32-300, right predict:(6912/10000) ,pre test_acc=69.1200%
+t = 400, loss = 1.13895035
+[train2_AdcT] E-t = 32-400, right predict:(6815/10000) ,pre test_acc=68.1500%
+t = 500, loss = 1.04989743
+[train2_AdcT] E-t = 32-500, right predict:(6914/10000) ,pre test_acc=69.1400%
+------------ Epoch 33 / 100 ------------
+t = 100, loss = 1.06913924
+[train2_AdcT] E-t = 33-100, right predict:(6929/10000) ,pre test_acc=69.2900%
+t = 200, loss = 1.10313869
+[train2_AdcT] E-t = 33-200, right predict:(6908/10000) ,pre test_acc=69.0800%
+t = 300, loss = 0.99996626
+[train2_AdcT] E-t = 33-300, right predict:(6909/10000) ,pre test_acc=69.0900%
+t = 400, loss = 1.24402976
+[train2_AdcT] E-t = 33-400, right predict:(6846/10000) ,pre test_acc=68.4600%
+t = 500, loss = 1.12499249
+[train2_AdcT] E-t = 33-500, right predict:(6952/10000) ,pre test_acc=69.5200%
+------------ Epoch 34 / 100 ------------
+t = 100, loss = 1.03492045
+[train2_AdcT] E-t = 34-100, right predict:(6935/10000) ,pre test_acc=69.3500%
+t = 200, loss = 1.16831517
+[train2_AdcT] E-t = 34-200, right predict:(6929/10000) ,pre test_acc=69.2900%
+t = 300, loss = 1.00812984
+[train2_AdcT] E-t = 34-300, right predict:(6960/10000) ,pre test_acc=69.6000%
+t = 400, loss = 1.19295418
+[train2_AdcT] E-t = 34-400, right predict:(6937/10000) ,pre test_acc=69.3700%
+t = 500, loss = 1.09510636
+[train2_AdcT] E-t = 34-500, right predict:(6959/10000) ,pre test_acc=69.5900%
+------------ Epoch 35 / 100 ------------
+t = 100, loss = 1.23095822
+[train2_AdcT] E-t = 35-100, right predict:(6953/10000) ,pre test_acc=69.5300%
+t = 200, loss = 1.21028066
+[train2_AdcT] E-t = 35-200, right predict:(6969/10000) ,pre test_acc=69.6900%
+t = 300, loss = 1.09589338
+[train2_AdcT] E-t = 35-300, right predict:(6984/10000) ,pre test_acc=69.8400%
+t = 400, loss = 1.20226824
+[train2_AdcT] E-t = 35-400, right predict:(7011/10000) ,pre test_acc=70.1100%
+t = 500, loss = 1.30611193
+[train2_AdcT] E-t = 35-500, right predict:(6982/10000) ,pre test_acc=69.8200%
+------------ Epoch 36 / 100 ------------
+t = 100, loss = 1.02369666
+[train2_AdcT] E-t = 36-100, right predict:(6889/10000) ,pre test_acc=68.8900%
+t = 200, loss = 1.19386315
+[train2_AdcT] E-t = 36-200, right predict:(7011/10000) ,pre test_acc=70.1100%
+t = 300, loss = 1.12920392
+[train2_AdcT] E-t = 36-300, right predict:(6994/10000) ,pre test_acc=69.9400%
+t = 400, loss = 1.16491902
+[train2_AdcT] E-t = 36-400, right predict:(6969/10000) ,pre test_acc=69.6900%
+t = 500, loss = 1.08275867
+[train2_AdcT] E-t = 36-500, right predict:(6988/10000) ,pre test_acc=69.8800%
+------------ Epoch 37 / 100 ------------
+t = 100, loss = 1.02573526
+[train2_AdcT] E-t = 37-100, right predict:(7000/10000) ,pre test_acc=70.0000%
+t = 200, loss = 1.01242065
+[train2_AdcT] E-t = 37-200, right predict:(6971/10000) ,pre test_acc=69.7100%
+t = 300, loss = 1.11381698
+[train2_AdcT] E-t = 37-300, right predict:(7016/10000) ,pre test_acc=70.1600%
+t = 400, loss = 1.17468417
+[train2_AdcT] E-t = 37-400, right predict:(6982/10000) ,pre test_acc=69.8200%
+t = 500, loss = 1.01753414
+[train2_AdcT] E-t = 37-500, right predict:(6939/10000) ,pre test_acc=69.3900%
+------------ Epoch 38 / 100 ------------
+t = 100, loss = 1.24942708
+[train2_AdcT] E-t = 38-100, right predict:(7071/10000) ,pre test_acc=70.7100%
+t = 200, loss = 1.03193164
+[train2_AdcT] E-t = 38-200, right predict:(7029/10000) ,pre test_acc=70.2900%
+t = 300, loss = 1.10017502
+[train2_AdcT] E-t = 38-300, right predict:(7020/10000) ,pre test_acc=70.2000%
+t = 400, loss = 1.10592401
+[train2_AdcT] E-t = 38-400, right predict:(7064/10000) ,pre test_acc=70.6400%
+t = 500, loss = 1.02762938
+[train2_AdcT] E-t = 38-500, right predict:(6974/10000) ,pre test_acc=69.7400%
+------------ Epoch 39 / 100 ------------
+t = 100, loss = 1.09459162
+[train2_AdcT] E-t = 39-100, right predict:(7064/10000) ,pre test_acc=70.6400%
+t = 200, loss = 0.99991858
+[train2_AdcT] E-t = 39-200, right predict:(7015/10000) ,pre test_acc=70.1500%
+t = 300, loss = 1.17977464
+[train2_AdcT] E-t = 39-300, right predict:(7023/10000) ,pre test_acc=70.2300%
+t = 400, loss = 1.13203108
+[train2_AdcT] E-t = 39-400, right predict:(7045/10000) ,pre test_acc=70.4500%
+t = 500, loss = 1.09244514
+[train2_AdcT] E-t = 39-500, right predict:(7019/10000) ,pre test_acc=70.1900%
+------------ Epoch 40 / 100 ------------
+t = 100, loss = 0.94303191
+[train2_AdcT] E-t = 40-100, right predict:(6996/10000) ,pre test_acc=69.9600%
+t = 200, loss = 1.08310246
+[train2_AdcT] E-t = 40-200, right predict:(7103/10000) ,pre test_acc=71.0300%
+t = 300, loss = 0.87664104
+[train2_AdcT] E-t = 40-300, right predict:(7023/10000) ,pre test_acc=70.2300%
+t = 400, loss = 0.95794821
+[train2_AdcT] E-t = 40-400, right predict:(7095/10000) ,pre test_acc=70.9500%
+t = 500, loss = 1.02216685
+[train2_AdcT] E-t = 40-500, right predict:(7131/10000) ,pre test_acc=71.3100%
+------------ Epoch 41 / 100 ------------
+t = 100, loss = 1.09248936
+[train2_AdcT] E-t = 41-100, right predict:(6975/10000) ,pre test_acc=69.7500%
+t = 200, loss = 1.05390644
+[train2_AdcT] E-t = 41-200, right predict:(6968/10000) ,pre test_acc=69.6800%
+t = 300, loss = 1.14362979
+[train2_AdcT] E-t = 41-300, right predict:(7094/10000) ,pre test_acc=70.9400%
+t = 400, loss = 1.11526656
+[train2_AdcT] E-t = 41-400, right predict:(7053/10000) ,pre test_acc=70.5300%
+t = 500, loss = 0.96752465
+[train2_AdcT] E-t = 41-500, right predict:(7049/10000) ,pre test_acc=70.4900%
+------------ Epoch 42 / 100 ------------
+t = 100, loss = 0.84712887
+[train2_AdcT] E-t = 42-100, right predict:(7016/10000) ,pre test_acc=70.1600%
+t = 200, loss = 1.04311395
+[train2_AdcT] E-t = 42-200, right predict:(7092/10000) ,pre test_acc=70.9200%
+t = 300, loss = 1.01797426
+[train2_AdcT] E-t = 42-300, right predict:(7131/10000) ,pre test_acc=71.3100%
+t = 400, loss = 1.13449645
+[train2_AdcT] E-t = 42-400, right predict:(7005/10000) ,pre test_acc=70.0500%
+t = 500, loss = 1.00495362
+[train2_AdcT] E-t = 42-500, right predict:(7068/10000) ,pre test_acc=70.6800%
+------------ Epoch 43 / 100 ------------
+t = 100, loss = 1.22354925
+[train2_AdcT] E-t = 43-100, right predict:(7051/10000) ,pre test_acc=70.5100%
+t = 200, loss = 1.25240541
+[train2_AdcT] E-t = 43-200, right predict:(7093/10000) ,pre test_acc=70.9300%
+t = 300, loss = 0.82074219
+[train2_AdcT] E-t = 43-300, right predict:(7029/10000) ,pre test_acc=70.2900%
+t = 400, loss = 0.98313367
+[train2_AdcT] E-t = 43-400, right predict:(7084/10000) ,pre test_acc=70.8400%
+t = 500, loss = 0.93385488
+[train2_AdcT] E-t = 43-500, right predict:(7144/10000) ,pre test_acc=71.4400%
+------------ Epoch 44 / 100 ------------
+t = 100, loss = 0.84804481
+[train2_AdcT] E-t = 44-100, right predict:(7071/10000) ,pre test_acc=70.7100%
+t = 200, loss = 1.04144573
+[train2_AdcT] E-t = 44-200, right predict:(7109/10000) ,pre test_acc=71.0900%
+t = 300, loss = 1.12094235
+[train2_AdcT] E-t = 44-300, right predict:(7191/10000) ,pre test_acc=71.9100%
+t = 400, loss = 1.21131182
+[train2_AdcT] E-t = 44-400, right predict:(7082/10000) ,pre test_acc=70.8200%
+t = 500, loss = 0.92015433
+[train2_AdcT] E-t = 44-500, right predict:(7187/10000) ,pre test_acc=71.8700%
+------------ Epoch 45 / 100 ------------
+t = 100, loss = 1.11747503
+[train2_AdcT] E-t = 45-100, right predict:(7119/10000) ,pre test_acc=71.1900%
+t = 200, loss = 1.15994120
+[train2_AdcT] E-t = 45-200, right predict:(7137/10000) ,pre test_acc=71.3700%
+t = 300, loss = 1.03681540
+[train2_AdcT] E-t = 45-300, right predict:(7077/10000) ,pre test_acc=70.7700%
+t = 400, loss = 1.02757275
+[train2_AdcT] E-t = 45-400, right predict:(7056/10000) ,pre test_acc=70.5600%
+t = 500, loss = 1.27594662
+[train2_AdcT] E-t = 45-500, right predict:(7134/10000) ,pre test_acc=71.3400%
+------------ Epoch 46 / 100 ------------
+t = 100, loss = 1.16587305
+[train2_AdcT] E-t = 46-100, right predict:(7115/10000) ,pre test_acc=71.1500%
+t = 200, loss = 0.98856324
+[train2_AdcT] E-t = 46-200, right predict:(7103/10000) ,pre test_acc=71.0300%
+t = 300, loss = 1.03828871
+[train2_AdcT] E-t = 46-300, right predict:(7140/10000) ,pre test_acc=71.4000%
+t = 400, loss = 0.96387970
+[train2_AdcT] E-t = 46-400, right predict:(7172/10000) ,pre test_acc=71.7200%
+t = 500, loss = 0.96589392
+[train2_AdcT] E-t = 46-500, right predict:(7097/10000) ,pre test_acc=70.9700%
+------------ Epoch 47 / 100 ------------
+t = 100, loss = 1.18232417
+[train2_AdcT] E-t = 47-100, right predict:(7147/10000) ,pre test_acc=71.4700%
+t = 200, loss = 0.84515762
+[train2_AdcT] E-t = 47-200, right predict:(7075/10000) ,pre test_acc=70.7500%
+t = 300, loss = 0.88643271
+[train2_AdcT] E-t = 47-300, right predict:(7106/10000) ,pre test_acc=71.0600%
+t = 400, loss = 1.09481907
+[train2_AdcT] E-t = 47-400, right predict:(7118/10000) ,pre test_acc=71.1800%
+t = 500, loss = 1.08455265
+[train2_AdcT] E-t = 47-500, right predict:(7149/10000) ,pre test_acc=71.4900%
+------------ Epoch 48 / 100 ------------
+t = 100, loss = 1.10095668
+[train2_AdcT] E-t = 48-100, right predict:(7168/10000) ,pre test_acc=71.6800%
+t = 200, loss = 1.17392159
+[train2_AdcT] E-t = 48-200, right predict:(7171/10000) ,pre test_acc=71.7100%
+t = 300, loss = 1.15692508
+[train2_AdcT] E-t = 48-300, right predict:(7118/10000) ,pre test_acc=71.1800%
+t = 400, loss = 1.00608611
+[train2_AdcT] E-t = 48-400, right predict:(7152/10000) ,pre test_acc=71.5200%
+t = 500, loss = 0.99330997
+[train2_AdcT] E-t = 48-500, right predict:(7199/10000) ,pre test_acc=71.9900%
+------------ Epoch 49 / 100 ------------
+t = 100, loss = 0.96094143
+[train2_AdcT] E-t = 49-100, right predict:(7119/10000) ,pre test_acc=71.1900%
+t = 200, loss = 0.84150457
+[train2_AdcT] E-t = 49-200, right predict:(7206/10000) ,pre test_acc=72.0600%
+t = 300, loss = 1.07402372
+[train2_AdcT] E-t = 49-300, right predict:(7157/10000) ,pre test_acc=71.5700%
+t = 400, loss = 1.12213004
+[train2_AdcT] E-t = 49-400, right predict:(7214/10000) ,pre test_acc=72.1400%
+t = 500, loss = 0.98554856
+[train2_AdcT] E-t = 49-500, right predict:(7135/10000) ,pre test_acc=71.3500%
+------------ Epoch 50 / 100 ------------
+t = 100, loss = 1.12158334
+[train2_AdcT] E-t = 50-100, right predict:(7071/10000) ,pre test_acc=70.7100%
+t = 200, loss = 0.92845672
+[train2_AdcT] E-t = 50-200, right predict:(7196/10000) ,pre test_acc=71.9600%
+t = 300, loss = 0.94679904
+[train2_AdcT] E-t = 50-300, right predict:(7215/10000) ,pre test_acc=72.1500%
+t = 400, loss = 1.17574584
+[train2_AdcT] E-t = 50-400, right predict:(7254/10000) ,pre test_acc=72.5400%
+t = 500, loss = 0.92415470
+[train2_AdcT] E-t = 50-500, right predict:(7203/10000) ,pre test_acc=72.0300%
+------------ Epoch 51 / 100 ------------
+t = 100, loss = 0.98867846
+[train2_AdcT] E-t = 51-100, right predict:(7219/10000) ,pre test_acc=72.1900%
+t = 200, loss = 0.87196624
+[train2_AdcT] E-t = 51-200, right predict:(7164/10000) ,pre test_acc=71.6400%
+t = 300, loss = 0.91172242
+[train2_AdcT] E-t = 51-300, right predict:(7223/10000) ,pre test_acc=72.2300%
+t = 400, loss = 1.12428045
+[train2_AdcT] E-t = 51-400, right predict:(7199/10000) ,pre test_acc=71.9900%
+t = 500, loss = 0.83331984
+[train2_AdcT] E-t = 51-500, right predict:(7253/10000) ,pre test_acc=72.5300%
+------------ Epoch 52 / 100 ------------
+t = 100, loss = 0.86515039
+[train2_AdcT] E-t = 52-100, right predict:(7212/10000) ,pre test_acc=72.1200%
+t = 200, loss = 1.07899952
+[train2_AdcT] E-t = 52-200, right predict:(7197/10000) ,pre test_acc=71.9700%
+t = 300, loss = 1.02983975
+[train2_AdcT] E-t = 52-300, right predict:(7159/10000) ,pre test_acc=71.5900%
+t = 400, loss = 1.15107429
+[train2_AdcT] E-t = 52-400, right predict:(7249/10000) ,pre test_acc=72.4900%
+t = 500, loss = 0.90696836
+[train2_AdcT] E-t = 52-500, right predict:(7174/10000) ,pre test_acc=71.7400%
+------------ Epoch 53 / 100 ------------
+t = 100, loss = 0.87371027
+[train2_AdcT] E-t = 53-100, right predict:(7217/10000) ,pre test_acc=72.1700%
+t = 200, loss = 0.90438211
+[train2_AdcT] E-t = 53-200, right predict:(7184/10000) ,pre test_acc=71.8400%
+t = 300, loss = 0.95634389
+[train2_AdcT] E-t = 53-300, right predict:(7152/10000) ,pre test_acc=71.5200%
+t = 400, loss = 0.97723126
+[train2_AdcT] E-t = 53-400, right predict:(7179/10000) ,pre test_acc=71.7900%
+t = 500, loss = 1.01015580
+[train2_AdcT] E-t = 53-500, right predict:(7150/10000) ,pre test_acc=71.5000%
+------------ Epoch 54 / 100 ------------
+t = 100, loss = 0.95241523
+[train2_AdcT] E-t = 54-100, right predict:(7194/10000) ,pre test_acc=71.9400%
+t = 200, loss = 0.85655022
+[train2_AdcT] E-t = 54-200, right predict:(7224/10000) ,pre test_acc=72.2400%
+t = 300, loss = 1.02157140
+[train2_AdcT] E-t = 54-300, right predict:(7253/10000) ,pre test_acc=72.5300%
+t = 400, loss = 0.98545045
+[train2_AdcT] E-t = 54-400, right predict:(7183/10000) ,pre test_acc=71.8300%
+t = 500, loss = 0.93918616
+[train2_AdcT] E-t = 54-500, right predict:(7283/10000) ,pre test_acc=72.8300%
+------------ Epoch 55 / 100 ------------
+t = 100, loss = 1.19117916
+[train2_AdcT] E-t = 55-100, right predict:(7091/10000) ,pre test_acc=70.9100%
+t = 200, loss = 0.94342709
+[train2_AdcT] E-t = 55-200, right predict:(7191/10000) ,pre test_acc=71.9100%
+t = 300, loss = 0.96226096
+[train2_AdcT] E-t = 55-300, right predict:(7194/10000) ,pre test_acc=71.9400%
+t = 400, loss = 1.03392661
+[train2_AdcT] E-t = 55-400, right predict:(7223/10000) ,pre test_acc=72.2300%
+t = 500, loss = 0.99218035
+[train2_AdcT] E-t = 55-500, right predict:(7208/10000) ,pre test_acc=72.0800%
+------------ Epoch 56 / 100 ------------
+t = 100, loss = 1.06601417
+[train2_AdcT] E-t = 56-100, right predict:(7250/10000) ,pre test_acc=72.5000%
+t = 200, loss = 1.06961095
+[train2_AdcT] E-t = 56-200, right predict:(7114/10000) ,pre test_acc=71.1400%
+t = 300, loss = 0.88541925
+[train2_AdcT] E-t = 56-300, right predict:(7210/10000) ,pre test_acc=72.1000%
+t = 400, loss = 0.88180178
+[train2_AdcT] E-t = 56-400, right predict:(7265/10000) ,pre test_acc=72.6500%
+t = 500, loss = 0.97535789
+[train2_AdcT] E-t = 56-500, right predict:(7220/10000) ,pre test_acc=72.2000%
+------------ Epoch 57 / 100 ------------
+t = 100, loss = 0.92373645
+[train2_AdcT] E-t = 57-100, right predict:(7289/10000) ,pre test_acc=72.8900%
+t = 200, loss = 0.81655967
+[train2_AdcT] E-t = 57-200, right predict:(7217/10000) ,pre test_acc=72.1700%
+t = 300, loss = 1.02447319
+[train2_AdcT] E-t = 57-300, right predict:(7273/10000) ,pre test_acc=72.7300%
+t = 400, loss = 1.03711712
+[train2_AdcT] E-t = 57-400, right predict:(7237/10000) ,pre test_acc=72.3700%
+t = 500, loss = 0.93262613
+[train2_AdcT] E-t = 57-500, right predict:(7267/10000) ,pre test_acc=72.6700%
+------------ Epoch 58 / 100 ------------
+t = 100, loss = 0.99692500
+[train2_AdcT] E-t = 58-100, right predict:(7303/10000) ,pre test_acc=73.0300%
+t = 200, loss = 1.14209962
+[train2_AdcT] E-t = 58-200, right predict:(7214/10000) ,pre test_acc=72.1400%
+t = 300, loss = 0.89593422
+[train2_AdcT] E-t = 58-300, right predict:(7259/10000) ,pre test_acc=72.5900%
+t = 400, loss = 1.00833845
+[train2_AdcT] E-t = 58-400, right predict:(7190/10000) ,pre test_acc=71.9000%
+t = 500, loss = 1.08254111
+[train2_AdcT] E-t = 58-500, right predict:(7307/10000) ,pre test_acc=73.0700%
+------------ Epoch 59 / 100 ------------
+t = 100, loss = 0.85726982
+[train2_AdcT] E-t = 59-100, right predict:(7275/10000) ,pre test_acc=72.7500%
+t = 200, loss = 0.95266891
+[train2_AdcT] E-t = 59-200, right predict:(7315/10000) ,pre test_acc=73.1500%
+t = 300, loss = 0.97630847
+[train2_AdcT] E-t = 59-300, right predict:(7233/10000) ,pre test_acc=72.3300%
+t = 400, loss = 1.16495037
+[train2_AdcT] E-t = 59-400, right predict:(7199/10000) ,pre test_acc=71.9900%
+t = 500, loss = 0.96983975
+[train2_AdcT] E-t = 59-500, right predict:(7253/10000) ,pre test_acc=72.5300%
+------------ Epoch 60 / 100 ------------
+t = 100, loss = 0.93378466
+[train2_AdcT] E-t = 60-100, right predict:(7236/10000) ,pre test_acc=72.3600%
+t = 200, loss = 0.94943792
+[train2_AdcT] E-t = 60-200, right predict:(7308/10000) ,pre test_acc=73.0800%
+t = 300, loss = 0.95186460
+[train2_AdcT] E-t = 60-300, right predict:(7245/10000) ,pre test_acc=72.4500%
+t = 400, loss = 0.92599392
+[train2_AdcT] E-t = 60-400, right predict:(7257/10000) ,pre test_acc=72.5700%
+t = 500, loss = 1.05115783
+[train2_AdcT] E-t = 60-500, right predict:(7240/10000) ,pre test_acc=72.4000%
+------------ Epoch 61 / 100 ------------
+t = 100, loss = 0.98171198
+[train2_AdcT] E-t = 61-100, right predict:(7322/10000) ,pre test_acc=73.2200%
+t = 200, loss = 0.87516826
+[train2_AdcT] E-t = 61-200, right predict:(7247/10000) ,pre test_acc=72.4700%
+t = 300, loss = 0.89535165
+[train2_AdcT] E-t = 61-300, right predict:(7322/10000) ,pre test_acc=73.2200%
+t = 400, loss = 0.95196652
+[train2_AdcT] E-t = 61-400, right predict:(7274/10000) ,pre test_acc=72.7400%
+t = 500, loss = 1.10185993
+[train2_AdcT] E-t = 61-500, right predict:(7320/10000) ,pre test_acc=73.2000%
+------------ Epoch 62 / 100 ------------
+t = 100, loss = 1.00204229
+[train2_AdcT] E-t = 62-100, right predict:(7221/10000) ,pre test_acc=72.2100%
+t = 200, loss = 0.91277266
+[train2_AdcT] E-t = 62-200, right predict:(7263/10000) ,pre test_acc=72.6300%
+t = 300, loss = 1.06306231
+[train2_AdcT] E-t = 62-300, right predict:(7288/10000) ,pre test_acc=72.8800%
+t = 400, loss = 1.10007763
+[train2_AdcT] E-t = 62-400, right predict:(7314/10000) ,pre test_acc=73.1400%
+t = 500, loss = 1.02509248
+[train2_AdcT] E-t = 62-500, right predict:(7320/10000) ,pre test_acc=73.2000%
+------------ Epoch 63 / 100 ------------
+t = 100, loss = 0.89795911
+[train2_AdcT] E-t = 63-100, right predict:(7309/10000) ,pre test_acc=73.0900%
+t = 200, loss = 0.77042222
+[train2_AdcT] E-t = 63-200, right predict:(7271/10000) ,pre test_acc=72.7100%
+t = 300, loss = 1.12746847
+[train2_AdcT] E-t = 63-300, right predict:(7301/10000) ,pre test_acc=73.0100%
+t = 400, loss = 1.01929033
+[train2_AdcT] E-t = 63-400, right predict:(7278/10000) ,pre test_acc=72.7800%
+t = 500, loss = 1.07379138
+[train2_AdcT] E-t = 63-500, right predict:(7331/10000) ,pre test_acc=73.3100%
+------------ Epoch 64 / 100 ------------
+t = 100, loss = 1.17461360
+[train2_AdcT] E-t = 64-100, right predict:(7310/10000) ,pre test_acc=73.1000%
+t = 200, loss = 0.89681983
+[train2_AdcT] E-t = 64-200, right predict:(7253/10000) ,pre test_acc=72.5300%
+t = 300, loss = 0.92935812
+[train2_AdcT] E-t = 64-300, right predict:(7322/10000) ,pre test_acc=73.2200%
+t = 400, loss = 1.10834813
+[train2_AdcT] E-t = 64-400, right predict:(7283/10000) ,pre test_acc=72.8300%
+t = 500, loss = 1.04366374
+[train2_AdcT] E-t = 64-500, right predict:(7314/10000) ,pre test_acc=73.1400%
+------------ Epoch 65 / 100 ------------
+t = 100, loss = 0.98449457
+[train2_AdcT] E-t = 65-100, right predict:(7200/10000) ,pre test_acc=72.0000%
+t = 200, loss = 0.85617971
+[train2_AdcT] E-t = 65-200, right predict:(7316/10000) ,pre test_acc=73.1600%
+t = 300, loss = 1.06490922
+[train2_AdcT] E-t = 65-300, right predict:(7245/10000) ,pre test_acc=72.4500%
+t = 400, loss = 1.09667969
+[train2_AdcT] E-t = 65-400, right predict:(7371/10000) ,pre test_acc=73.7100%
+t = 500, loss = 0.80082405
+[train2_AdcT] E-t = 65-500, right predict:(7334/10000) ,pre test_acc=73.3400%
+------------ Epoch 66 / 100 ------------
+t = 100, loss = 0.86042118
+[train2_AdcT] E-t = 66-100, right predict:(7356/10000) ,pre test_acc=73.5600%
+t = 200, loss = 0.88918608
+[train2_AdcT] E-t = 66-200, right predict:(7301/10000) ,pre test_acc=73.0100%
+t = 300, loss = 0.97548103
+[train2_AdcT] E-t = 66-300, right predict:(7171/10000) ,pre test_acc=71.7100%
+t = 400, loss = 0.78284478
+[train2_AdcT] E-t = 66-400, right predict:(7351/10000) ,pre test_acc=73.5100%
+t = 500, loss = 0.76002485
+[train2_AdcT] E-t = 66-500, right predict:(7359/10000) ,pre test_acc=73.5900%
+------------ Epoch 67 / 100 ------------
+t = 100, loss = 1.17130232
+[train2_AdcT] E-t = 67-100, right predict:(7329/10000) ,pre test_acc=73.2900%
+t = 200, loss = 0.73819131
+[train2_AdcT] E-t = 67-200, right predict:(7319/10000) ,pre test_acc=73.1900%
+t = 300, loss = 0.86356568
+[train2_AdcT] E-t = 67-300, right predict:(7353/10000) ,pre test_acc=73.5300%
+t = 400, loss = 1.03081298
+[train2_AdcT] E-t = 67-400, right predict:(7354/10000) ,pre test_acc=73.5400%
+t = 500, loss = 0.77298182
+[train2_AdcT] E-t = 67-500, right predict:(7317/10000) ,pre test_acc=73.1700%
+------------ Epoch 68 / 100 ------------
+t = 100, loss = 0.86594403
+[train2_AdcT] E-t = 68-100, right predict:(7339/10000) ,pre test_acc=73.3900%
+t = 200, loss = 0.99586391
+[train2_AdcT] E-t = 68-200, right predict:(7298/10000) ,pre test_acc=72.9800%
+t = 300, loss = 0.98849034
+[train2_AdcT] E-t = 68-300, right predict:(7371/10000) ,pre test_acc=73.7100%
+t = 400, loss = 0.94505399
+[train2_AdcT] E-t = 68-400, right predict:(7271/10000) ,pre test_acc=72.7100%
+t = 500, loss = 0.77897489
+[train2_AdcT] E-t = 68-500, right predict:(7394/10000) ,pre test_acc=73.9400%
+------------ Epoch 69 / 100 ------------
+t = 100, loss = 0.94874883
+[train2_AdcT] E-t = 69-100, right predict:(7262/10000) ,pre test_acc=72.6200%
+t = 200, loss = 0.90482432
+[train2_AdcT] E-t = 69-200, right predict:(7321/10000) ,pre test_acc=73.2100%
+t = 300, loss = 0.90996456
+[train2_AdcT] E-t = 69-300, right predict:(7356/10000) ,pre test_acc=73.5600%
+t = 400, loss = 0.69506377
+[train2_AdcT] E-t = 69-400, right predict:(7351/10000) ,pre test_acc=73.5100%
+t = 500, loss = 0.77038091
+[train2_AdcT] E-t = 69-500, right predict:(7327/10000) ,pre test_acc=73.2700%
+------------ Epoch 70 / 100 ------------
+t = 100, loss = 0.77792048
+[train2_AdcT] E-t = 70-100, right predict:(7335/10000) ,pre test_acc=73.3500%
+t = 200, loss = 0.86222661
+[train2_AdcT] E-t = 70-200, right predict:(7392/10000) ,pre test_acc=73.9200%
+t = 300, loss = 0.82407498
+[train2_AdcT] E-t = 70-300, right predict:(7364/10000) ,pre test_acc=73.6400%
+t = 400, loss = 0.95429647
+[train2_AdcT] E-t = 70-400, right predict:(7317/10000) ,pre test_acc=73.1700%
+t = 500, loss = 0.98954833
+[train2_AdcT] E-t = 70-500, right predict:(7410/10000) ,pre test_acc=74.1000%
+------------ Epoch 71 / 100 ------------
+t = 100, loss = 0.95338440
+[train2_AdcT] E-t = 71-100, right predict:(7341/10000) ,pre test_acc=73.4100%
+t = 200, loss = 0.93726331
+[train2_AdcT] E-t = 71-200, right predict:(7312/10000) ,pre test_acc=73.1200%
+t = 300, loss = 0.85896546
+[train2_AdcT] E-t = 71-300, right predict:(7422/10000) ,pre test_acc=74.2200%
+t = 400, loss = 0.74735111
+[train2_AdcT] E-t = 71-400, right predict:(7337/10000) ,pre test_acc=73.3700%
+t = 500, loss = 0.83023000
+[train2_AdcT] E-t = 71-500, right predict:(7301/10000) ,pre test_acc=73.0100%
+------------ Epoch 72 / 100 ------------
+t = 100, loss = 0.88132948
+[train2_AdcT] E-t = 72-100, right predict:(7377/10000) ,pre test_acc=73.7700%
+t = 200, loss = 0.93551546
+[train2_AdcT] E-t = 72-200, right predict:(7323/10000) ,pre test_acc=73.2300%
+t = 300, loss = 0.82819420
+[train2_AdcT] E-t = 72-300, right predict:(7387/10000) ,pre test_acc=73.8700%
+t = 400, loss = 0.88383651
+[train2_AdcT] E-t = 72-400, right predict:(7311/10000) ,pre test_acc=73.1100%
+t = 500, loss = 0.97911000
+[train2_AdcT] E-t = 72-500, right predict:(7367/10000) ,pre test_acc=73.6700%
+------------ Epoch 73 / 100 ------------
+t = 100, loss = 0.81537831
+[train2_AdcT] E-t = 73-100, right predict:(7382/10000) ,pre test_acc=73.8200%
+t = 200, loss = 0.87607992
+[train2_AdcT] E-t = 73-200, right predict:(7386/10000) ,pre test_acc=73.8600%
+t = 300, loss = 0.94082928
+[train2_AdcT] E-t = 73-300, right predict:(7329/10000) ,pre test_acc=73.2900%
+t = 400, loss = 0.96818751
+[train2_AdcT] E-t = 73-400, right predict:(7383/10000) ,pre test_acc=73.8300%
+t = 500, loss = 0.87767768
+[train2_AdcT] E-t = 73-500, right predict:(7394/10000) ,pre test_acc=73.9400%
+------------ Epoch 74 / 100 ------------
+t = 100, loss = 0.81270468
+[train2_AdcT] E-t = 74-100, right predict:(7368/10000) ,pre test_acc=73.6800%
+t = 200, loss = 0.90377903
+[train2_AdcT] E-t = 74-200, right predict:(7389/10000) ,pre test_acc=73.8900%
+t = 300, loss = 0.74602062
+[train2_AdcT] E-t = 74-300, right predict:(7368/10000) ,pre test_acc=73.6800%
+t = 400, loss = 0.99827760
+[train2_AdcT] E-t = 74-400, right predict:(7328/10000) ,pre test_acc=73.2800%
+t = 500, loss = 0.82998329
+[train2_AdcT] E-t = 74-500, right predict:(7348/10000) ,pre test_acc=73.4800%
+------------ Epoch 75 / 100 ------------
+t = 100, loss = 0.78761637
+[train2_AdcT] E-t = 75-100, right predict:(7393/10000) ,pre test_acc=73.9300%
+t = 200, loss = 0.84988421
+[train2_AdcT] E-t = 75-200, right predict:(7336/10000) ,pre test_acc=73.3600%
+t = 300, loss = 0.90223336
+[train2_AdcT] E-t = 75-300, right predict:(7380/10000) ,pre test_acc=73.8000%
+t = 400, loss = 0.78927392
+[train2_AdcT] E-t = 75-400, right predict:(7365/10000) ,pre test_acc=73.6500%
+t = 500, loss = 0.91974318
+[train2_AdcT] E-t = 75-500, right predict:(7369/10000) ,pre test_acc=73.6900%
+------------ Epoch 76 / 100 ------------
+t = 100, loss = 1.03562129
+[train2_AdcT] E-t = 76-100, right predict:(7319/10000) ,pre test_acc=73.1900%
+t = 200, loss = 0.99839455
+[train2_AdcT] E-t = 76-200, right predict:(7356/10000) ,pre test_acc=73.5600%
+t = 300, loss = 0.94984365
+[train2_AdcT] E-t = 76-300, right predict:(7380/10000) ,pre test_acc=73.8000%
+t = 400, loss = 0.73843980
+[train2_AdcT] E-t = 76-400, right predict:(7353/10000) ,pre test_acc=73.5300%
+t = 500, loss = 0.70691466
+[train2_AdcT] E-t = 76-500, right predict:(7395/10000) ,pre test_acc=73.9500%
+------------ Epoch 77 / 100 ------------
+t = 100, loss = 0.89119756
+[train2_AdcT] E-t = 77-100, right predict:(7375/10000) ,pre test_acc=73.7500%
+t = 200, loss = 0.74363136
+[train2_AdcT] E-t = 77-200, right predict:(7344/10000) ,pre test_acc=73.4400%
+t = 300, loss = 0.84984207
+[train2_AdcT] E-t = 77-300, right predict:(7397/10000) ,pre test_acc=73.9700%
+t = 400, loss = 0.85978723
+[train2_AdcT] E-t = 77-400, right predict:(7345/10000) ,pre test_acc=73.4500%
+t = 500, loss = 0.99971223
+[train2_AdcT] E-t = 77-500, right predict:(7342/10000) ,pre test_acc=73.4200%
+------------ Epoch 78 / 100 ------------
+t = 100, loss = 0.64821434
+[train2_AdcT] E-t = 78-100, right predict:(7437/10000) ,pre test_acc=74.3700%
+t = 200, loss = 0.81358594
+[train2_AdcT] E-t = 78-200, right predict:(7443/10000) ,pre test_acc=74.4300%
+t = 300, loss = 0.98165715
+[train2_AdcT] E-t = 78-300, right predict:(7418/10000) ,pre test_acc=74.1800%
+t = 400, loss = 1.03166389
+[train2_AdcT] E-t = 78-400, right predict:(7374/10000) ,pre test_acc=73.7400%
+t = 500, loss = 1.09219944
+[train2_AdcT] E-t = 78-500, right predict:(7403/10000) ,pre test_acc=74.0300%
+------------ Epoch 79 / 100 ------------
+t = 100, loss = 0.91293073
+[train2_AdcT] E-t = 79-100, right predict:(7369/10000) ,pre test_acc=73.6900%
+t = 200, loss = 0.93011200
+[train2_AdcT] E-t = 79-200, right predict:(7361/10000) ,pre test_acc=73.6100%
+t = 300, loss = 0.75791985
+[train2_AdcT] E-t = 79-300, right predict:(7339/10000) ,pre test_acc=73.3900%
+t = 400, loss = 0.89492023
+[train2_AdcT] E-t = 79-400, right predict:(7362/10000) ,pre test_acc=73.6200%
+t = 500, loss = 0.76833642
+[train2_AdcT] E-t = 79-500, right predict:(7445/10000) ,pre test_acc=74.4500%
+------------ Epoch 80 / 100 ------------
+t = 100, loss = 0.86398578
+[train2_AdcT] E-t = 80-100, right predict:(7382/10000) ,pre test_acc=73.8200%
+t = 200, loss = 0.84570158
+[train2_AdcT] E-t = 80-200, right predict:(7408/10000) ,pre test_acc=74.0800%
+t = 300, loss = 0.90175986
+[train2_AdcT] E-t = 80-300, right predict:(7406/10000) ,pre test_acc=74.0600%
+t = 400, loss = 0.89145839
+[train2_AdcT] E-t = 80-400, right predict:(7445/10000) ,pre test_acc=74.4500%
+t = 500, loss = 1.01174879
+[train2_AdcT] E-t = 80-500, right predict:(7415/10000) ,pre test_acc=74.1500%
+------------ Epoch 81 / 100 ------------
+t = 100, loss = 0.91581374
+[train2_AdcT] E-t = 81-100, right predict:(7336/10000) ,pre test_acc=73.3600%
+t = 200, loss = 0.82061946
+[train2_AdcT] E-t = 81-200, right predict:(7390/10000) ,pre test_acc=73.9000%
+t = 300, loss = 0.85858703
+[train2_AdcT] E-t = 81-300, right predict:(7356/10000) ,pre test_acc=73.5600%
+t = 400, loss = 0.83498895
+[train2_AdcT] E-t = 81-400, right predict:(7388/10000) ,pre test_acc=73.8800%
+t = 500, loss = 0.78823471
+[train2_AdcT] E-t = 81-500, right predict:(7422/10000) ,pre test_acc=74.2200%
+------------ Epoch 82 / 100 ------------
+t = 100, loss = 0.76936948
+[train2_AdcT] E-t = 82-100, right predict:(7445/10000) ,pre test_acc=74.4500%
+t = 200, loss = 0.78468496
+[train2_AdcT] E-t = 82-200, right predict:(7372/10000) ,pre test_acc=73.7200%
+t = 300, loss = 0.87723875
+[train2_AdcT] E-t = 82-300, right predict:(7462/10000) ,pre test_acc=74.6200%
+t = 400, loss = 0.78174865
+[train2_AdcT] E-t = 82-400, right predict:(7397/10000) ,pre test_acc=73.9700%
+t = 500, loss = 0.72602588
+[train2_AdcT] E-t = 82-500, right predict:(7431/10000) ,pre test_acc=74.3100%
+------------ Epoch 83 / 100 ------------
+t = 100, loss = 0.89057344
+[train2_AdcT] E-t = 83-100, right predict:(7389/10000) ,pre test_acc=73.8900%
+t = 200, loss = 0.80727637
+[train2_AdcT] E-t = 83-200, right predict:(7378/10000) ,pre test_acc=73.7800%
+t = 300, loss = 0.80736792
+[train2_AdcT] E-t = 83-300, right predict:(7431/10000) ,pre test_acc=74.3100%
+t = 400, loss = 0.89367616
+[train2_AdcT] E-t = 83-400, right predict:(7372/10000) ,pre test_acc=73.7200%
+t = 500, loss = 0.94447827
+[train2_AdcT] E-t = 83-500, right predict:(7423/10000) ,pre test_acc=74.2300%
+------------ Epoch 84 / 100 ------------
+t = 100, loss = 1.15165412
+[train2_AdcT] E-t = 84-100, right predict:(7418/10000) ,pre test_acc=74.1800%
+t = 200, loss = 0.82426828
+[train2_AdcT] E-t = 84-200, right predict:(7413/10000) ,pre test_acc=74.1300%
+t = 300, loss = 0.73905760
+[train2_AdcT] E-t = 84-300, right predict:(7313/10000) ,pre test_acc=73.1300%
+t = 400, loss = 0.85167277
+[train2_AdcT] E-t = 84-400, right predict:(7461/10000) ,pre test_acc=74.6100%
+t = 500, loss = 0.88097143
+[train2_AdcT] E-t = 84-500, right predict:(7372/10000) ,pre test_acc=73.7200%
+------------ Epoch 85 / 100 ------------
+t = 100, loss = 0.75471479
+[train2_AdcT] E-t = 85-100, right predict:(7393/10000) ,pre test_acc=73.9300%
+t = 200, loss = 0.78893757
+[train2_AdcT] E-t = 85-200, right predict:(7406/10000) ,pre test_acc=74.0600%
+t = 300, loss = 0.71935815
+[train2_AdcT] E-t = 85-300, right predict:(7400/10000) ,pre test_acc=74.0000%
+t = 400, loss = 0.78892922
+[train2_AdcT] E-t = 85-400, right predict:(7370/10000) ,pre test_acc=73.7000%
+t = 500, loss = 0.82211685
+[train2_AdcT] E-t = 85-500, right predict:(7431/10000) ,pre test_acc=74.3100%
+------------ Epoch 86 / 100 ------------
+t = 100, loss = 0.73421198
+[train2_AdcT] E-t = 86-100, right predict:(7406/10000) ,pre test_acc=74.0600%
+t = 200, loss = 1.00204325
+[train2_AdcT] E-t = 86-200, right predict:(7374/10000) ,pre test_acc=73.7400%
+t = 300, loss = 0.76395506
+[train2_AdcT] E-t = 86-300, right predict:(7432/10000) ,pre test_acc=74.3200%
+t = 400, loss = 0.98855191
+[train2_AdcT] E-t = 86-400, right predict:(7359/10000) ,pre test_acc=73.5900%
+t = 500, loss = 1.10308397
+[train2_AdcT] E-t = 86-500, right predict:(7413/10000) ,pre test_acc=74.1300%
+------------ Epoch 87 / 100 ------------
+t = 100, loss = 0.98755777
+[train2_AdcT] E-t = 87-100, right predict:(7378/10000) ,pre test_acc=73.7800%
+t = 200, loss = 0.78256977
+[train2_AdcT] E-t = 87-200, right predict:(7402/10000) ,pre test_acc=74.0200%
+t = 300, loss = 0.71381915
+[train2_AdcT] E-t = 87-300, right predict:(7440/10000) ,pre test_acc=74.4000%
+t = 400, loss = 0.93213409
+[train2_AdcT] E-t = 87-400, right predict:(7382/10000) ,pre test_acc=73.8200%
+t = 500, loss = 0.88966262
+[train2_AdcT] E-t = 87-500, right predict:(7475/10000) ,pre test_acc=74.7500%
+------------ Epoch 88 / 100 ------------
+t = 100, loss = 0.72705448
+[train2_AdcT] E-t = 88-100, right predict:(7476/10000) ,pre test_acc=74.7600%
+t = 200, loss = 0.79398143
+[train2_AdcT] E-t = 88-200, right predict:(7435/10000) ,pre test_acc=74.3500%
+t = 300, loss = 0.69616884
+[train2_AdcT] E-t = 88-300, right predict:(7399/10000) ,pre test_acc=73.9900%
+t = 400, loss = 0.70813483
+[train2_AdcT] E-t = 88-400, right predict:(7412/10000) ,pre test_acc=74.1200%
+t = 500, loss = 0.89390779
+[train2_AdcT] E-t = 88-500, right predict:(7435/10000) ,pre test_acc=74.3500%
+------------ Epoch 89 / 100 ------------
+t = 100, loss = 0.76868016
+[train2_AdcT] E-t = 89-100, right predict:(7422/10000) ,pre test_acc=74.2200%
+t = 200, loss = 0.93310690
+[train2_AdcT] E-t = 89-200, right predict:(7435/10000) ,pre test_acc=74.3500%
+t = 300, loss = 0.65595567
+[train2_AdcT] E-t = 89-300, right predict:(7338/10000) ,pre test_acc=73.3800%
+t = 400, loss = 0.74308276
+[train2_AdcT] E-t = 89-400, right predict:(7391/10000) ,pre test_acc=73.9100%
+t = 500, loss = 1.03066730
+[train2_AdcT] E-t = 89-500, right predict:(7445/10000) ,pre test_acc=74.4500%
+------------ Epoch 90 / 100 ------------
+t = 100, loss = 0.91284674
+[train2_AdcT] E-t = 90-100, right predict:(7434/10000) ,pre test_acc=74.3400%
+t = 200, loss = 0.87890446
+[train2_AdcT] E-t = 90-200, right predict:(7421/10000) ,pre test_acc=74.2100%
+t = 300, loss = 0.79189944
+[train2_AdcT] E-t = 90-300, right predict:(7399/10000) ,pre test_acc=73.9900%
+t = 400, loss = 0.88543272
+[train2_AdcT] E-t = 90-400, right predict:(7439/10000) ,pre test_acc=74.3900%
+t = 500, loss = 0.67594808
+[train2_AdcT] E-t = 90-500, right predict:(7403/10000) ,pre test_acc=74.0300%
+------------ Epoch 91 / 100 ------------
+t = 100, loss = 0.81039745
+[train2_AdcT] E-t = 91-100, right predict:(7395/10000) ,pre test_acc=73.9500%
+t = 200, loss = 0.86674047
+[train2_AdcT] E-t = 91-200, right predict:(7405/10000) ,pre test_acc=74.0500%
+t = 300, loss = 0.89852691
+[train2_AdcT] E-t = 91-300, right predict:(7419/10000) ,pre test_acc=74.1900%
+t = 400, loss = 0.73602712
+[train2_AdcT] E-t = 91-400, right predict:(7368/10000) ,pre test_acc=73.6800%
+t = 500, loss = 0.90894353
+[train2_AdcT] E-t = 91-500, right predict:(7390/10000) ,pre test_acc=73.9000%
+------------ Epoch 92 / 100 ------------
+t = 100, loss = 0.85969210
+[train2_AdcT] E-t = 92-100, right predict:(7440/10000) ,pre test_acc=74.4000%
+t = 200, loss = 0.78055346
+[train2_AdcT] E-t = 92-200, right predict:(7464/10000) ,pre test_acc=74.6400%
+t = 300, loss = 1.02653384
+[train2_AdcT] E-t = 92-300, right predict:(7447/10000) ,pre test_acc=74.4700%
+t = 400, loss = 0.90357161
+[train2_AdcT] E-t = 92-400, right predict:(7377/10000) ,pre test_acc=73.7700%
+t = 500, loss = 0.88799506
+[train2_AdcT] E-t = 92-500, right predict:(7429/10000) ,pre test_acc=74.2900%
+------------ Epoch 93 / 100 ------------
+t = 100, loss = 0.82106858
+[train2_AdcT] E-t = 93-100, right predict:(7492/10000) ,pre test_acc=74.9200%
+t = 200, loss = 0.77419776
+[train2_AdcT] E-t = 93-200, right predict:(7450/10000) ,pre test_acc=74.5000%
+t = 300, loss = 0.87853754
+[train2_AdcT] E-t = 93-300, right predict:(7343/10000) ,pre test_acc=73.4300%
+t = 400, loss = 0.86181009
+[train2_AdcT] E-t = 93-400, right predict:(7453/10000) ,pre test_acc=74.5300%
+t = 500, loss = 0.78426331
+[train2_AdcT] E-t = 93-500, right predict:(7429/10000) ,pre test_acc=74.2900%
+------------ Epoch 94 / 100 ------------
+t = 100, loss = 0.92444164
+[train2_AdcT] E-t = 94-100, right predict:(7304/10000) ,pre test_acc=73.0400%
+t = 200, loss = 0.94561970
+[train2_AdcT] E-t = 94-200, right predict:(7424/10000) ,pre test_acc=74.2400%
+t = 300, loss = 0.96880078
+[train2_AdcT] E-t = 94-300, right predict:(7413/10000) ,pre test_acc=74.1300%
+t = 400, loss = 0.91502142
+[train2_AdcT] E-t = 94-400, right predict:(7357/10000) ,pre test_acc=73.5700%
+t = 500, loss = 0.81709361
+[train2_AdcT] E-t = 94-500, right predict:(7442/10000) ,pre test_acc=74.4200%
+------------ Epoch 95 / 100 ------------
+t = 100, loss = 0.77280098
+[train2_AdcT] E-t = 95-100, right predict:(7410/10000) ,pre test_acc=74.1000%
+t = 200, loss = 0.83275843
+[train2_AdcT] E-t = 95-200, right predict:(7441/10000) ,pre test_acc=74.4100%
+t = 300, loss = 0.92620349
+[train2_AdcT] E-t = 95-300, right predict:(7447/10000) ,pre test_acc=74.4700%
+t = 400, loss = 0.79697263
+[train2_AdcT] E-t = 95-400, right predict:(7471/10000) ,pre test_acc=74.7100%
+t = 500, loss = 0.70939434
+[train2_AdcT] E-t = 95-500, right predict:(7455/10000) ,pre test_acc=74.5500%
+------------ Epoch 96 / 100 ------------
+t = 100, loss = 0.81088334
+[train2_AdcT] E-t = 96-100, right predict:(7354/10000) ,pre test_acc=73.5400%
+t = 200, loss = 0.70398653
+[train2_AdcT] E-t = 96-200, right predict:(7439/10000) ,pre test_acc=74.3900%
+t = 300, loss = 0.85279131
+[train2_AdcT] E-t = 96-300, right predict:(7449/10000) ,pre test_acc=74.4900%
+t = 400, loss = 0.72185344
+[train2_AdcT] E-t = 96-400, right predict:(7382/10000) ,pre test_acc=73.8200%
+t = 500, loss = 0.83946264
+[train2_AdcT] E-t = 96-500, right predict:(7480/10000) ,pre test_acc=74.8000%
+------------ Epoch 97 / 100 ------------
+t = 100, loss = 0.95658135
+[train2_AdcT] E-t = 97-100, right predict:(7433/10000) ,pre test_acc=74.3300%
+t = 200, loss = 0.82212639
+[train2_AdcT] E-t = 97-200, right predict:(7434/10000) ,pre test_acc=74.3400%
+t = 300, loss = 0.77635264
+[train2_AdcT] E-t = 97-300, right predict:(7476/10000) ,pre test_acc=74.7600%
+t = 400, loss = 0.91537595
+[train2_AdcT] E-t = 97-400, right predict:(7399/10000) ,pre test_acc=73.9900%
+t = 500, loss = 0.83256245
+[train2_AdcT] E-t = 97-500, right predict:(7444/10000) ,pre test_acc=74.4400%
+------------ Epoch 98 / 100 ------------
+t = 100, loss = 0.75171554
+[train2_AdcT] E-t = 98-100, right predict:(7351/10000) ,pre test_acc=73.5100%
+t = 200, loss = 0.85883874
+[train2_AdcT] E-t = 98-200, right predict:(7437/10000) ,pre test_acc=74.3700%
+t = 300, loss = 0.80123246
+[train2_AdcT] E-t = 98-300, right predict:(7426/10000) ,pre test_acc=74.2600%
+t = 400, loss = 0.84540606
+[train2_AdcT] E-t = 98-400, right predict:(7328/10000) ,pre test_acc=73.2800%
+t = 500, loss = 0.88336998
+[train2_AdcT] E-t = 98-500, right predict:(7332/10000) ,pre test_acc=73.3200%
+------------ Epoch 99 / 100 ------------
+t = 100, loss = 0.82593489
+[train2_AdcT] E-t = 99-100, right predict:(7459/10000) ,pre test_acc=74.5900%
+t = 200, loss = 0.78759003
+[train2_AdcT] E-t = 99-200, right predict:(7484/10000) ,pre test_acc=74.8400%
+t = 300, loss = 0.83883309
+[train2_AdcT] E-t = 99-300, right predict:(7446/10000) ,pre test_acc=74.4600%
+t = 400, loss = 0.77331239
+[train2_AdcT] E-t = 99-400, right predict:(7386/10000) ,pre test_acc=73.8600%
+t = 500, loss = 0.73736531
+[train2_AdcT] E-t = 99-500, right predict:(7487/10000) ,pre test_acc=74.8700%
+------------ Epoch 100 / 100 ------------
+t = 100, loss = 0.72669828
+[train2_AdcT] E-t = 100-100, right predict:(7503/10000) ,pre test_acc=75.0300%
+t = 200, loss = 0.88304555
+[train2_AdcT] E-t = 100-200, right predict:(7442/10000) ,pre test_acc=74.4200%
+t = 300, loss = 0.85050714
+[train2_AdcT] E-t = 100-300, right predict:(7491/10000) ,pre test_acc=74.9100%
+t = 400, loss = 0.75090212
+[train2_AdcT] E-t = 100-400, right predict:(7430/10000) ,pre test_acc=74.3000%
+t = 500, loss = 0.73719096
+[train2_AdcT] E-t = 100-500, right predict:(7488/10000) ,pre test_acc=74.8800%
+
+Process finished with exit code 0
